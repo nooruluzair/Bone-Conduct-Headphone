@@ -52,3 +52,5 @@ STMicroelectronics and Dialog Semiconductor for component support.
 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/noor-ul-ain-3a8259233/)
 
+[![Fiverr Logo](./images/fiverr-logo.png)](https://www.fiverr.com/noorrind)
+
