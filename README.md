@@ -50,7 +50,12 @@ Client feedback for iterative design improvements.
 STMicroelectronics and Dialog Semiconductor for component support.
 
 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/noor-ul-ain-3a8259233/)
+
+
 [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/noorrind)
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-%236FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01518bca72579a3f72))
+
+
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-%236FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01518bca72579a3f72)
 
