@@ -2,6 +2,7 @@
 *An end-to-end embedded system design for IoT applications*  
 
 ![Screenshot 2025-02-04 214614.png](https://github.com/nooruluzair/Bone-Conduct-Headphone/blob/main/Screenshot%202025-02-04%20214614.png)
+![Screenshot 2025-02-05 152436.png](https://github.com/nooruluzair/Bone-Conduct-Headphone/blob/main/Screenshot%202025-02-05%20152436.png)
 ## **Overview**  
 This project delivers a fully integrated IoT PCB solution featuring:  
 - **Real-time processing** via the STM32L432KCU6 microcontroller.  
