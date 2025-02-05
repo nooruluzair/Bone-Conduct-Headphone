@@ -1,8 +1,7 @@
 # IoT PCB Design: STM32L432KCU6 + DA16200 + PAM8406  
 *An end-to-end embedded system design for IoT applications*  
 
-![PCB Preview](Bone-Conduct-Headphone
-/Screenshot 2025-02-04 214614.png)
+![Screenshot 2025-02-04 214614.png](https://github.com/nooruluzair/Bone-Conduct-Headphone/blob/main/Screenshot%202025-02-04%20214614.png)
 ## **Overview**  
 This project delivers a fully integrated IoT PCB solution featuring:  
 - **Real-time processing** via the STM32L432KCU6 microcontroller.  
