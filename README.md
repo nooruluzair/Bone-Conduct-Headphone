@@ -1,7 +1,7 @@
 # IoT PCB Design: STM32L432KCU6 + DA16200 + PAM8406  
 *An end-to-end embedded system design for IoT applications*  
 
-![PCB Preview](path/to/pcb_image.png) <!-- Add your PCB image here -->
+![PCB Preview]Screenshot 2025-02-04 214614.png) <!-- Add your PCB image here -->
 
 ## **Overview**  
 This project delivers a fully integrated IoT PCB solution featuring:  
@@ -27,3 +27,27 @@ This project delivers a fully integrated IoT PCB solution featuring:
 - **Design Tools**: Altium Designer (Schematic + Layout).  
 - **Compliance**: Tested for FCC Part 15B (EMI/EMC).  
 - **Power Efficiency**: 15μA deep sleep mode (DA16200).  
+
+Getting Started
+Prerequisites:
+
+Altium Designer (for hardware files).
+
+STM32CubeIDE (for firmware development).
+
+
+
+
+Contributing
+Open to collaborations! For bug reports or feature requests, open an issue or submit a PR.
+
+License
+MIT License. See LICENSE for details.
+
+Acknowledgments
+Client feedback for iterative design improvements.
+
+STMicroelectronics and Dialog Semiconductor for component support.
+
+Connect with me:
+https://www.linkedin.com/in/noor-ul-ain-3a8259233/
