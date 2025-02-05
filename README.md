@@ -2,7 +2,8 @@
 *An end-to-end embedded system design for IoT applications*  
 
 ![PCB Preview]Screenshot 2025-02-04 214614.png) <!-- Add your PCB image here -->
-![PCB Preview](Screenshot 2025-02-04 214614.png)
+![PCB Preview](Bone-Conduct-Headphone/Screenshot 2025-02-04 214614.png
+)
 
 ## **Overview**  
 This project delivers a fully integrated IoT PCB solution featuring:  
