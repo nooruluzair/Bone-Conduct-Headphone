@@ -53,4 +53,5 @@ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/noor-ul-ain-3a8259233/)
 
 [![Fiverr Logo](./images/fiverr-logo.png)](https://www.fiverr.com/noorrind)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-%231DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/noorrind)
 
