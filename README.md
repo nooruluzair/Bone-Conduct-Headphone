@@ -50,4 +50,5 @@ Client feedback for iterative design improvements.
 STMicroelectronics and Dialog Semiconductor for component support.
 
 Connect with me:
-https://www.linkedin.com/in/noor-ul-ain-3a8259233/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/noor-ul-ain-3a8259233/)
+
